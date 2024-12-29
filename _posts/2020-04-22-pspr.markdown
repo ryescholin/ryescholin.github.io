@@ -1,0 +1,55 @@
+---
+layout: post
+title: Founding Portland Student Pandemic Response
+date: 2020-04-22 15:00:00 +0300
+description: How I launched a nonprofit to empower students to make a difference during the COVID-19 pandemic.
+img: p2.png
+fig-caption: PSPR's Summer Action Team hosting a virtual event for the Portland community.
+tags: [Nonprofit, Leadership, Community Impact, COVID-19 Response]
+---
+
+## From Idea to Action
+
+When the pandemic disrupted my robotics activities, I found myself searching for a meaningful way to contribute to my community. With limited resources and an at-risk family member at home, I began brainstorming ways to engage students like me in meaningful service opportunities. The result was **Portland Student Pandemic Response (PSPR)**, a nonprofit organization connecting high school students with communities in need during the pandemic.
+
+Initially, PSPR was a website cataloging service opportunities, allowing students to filter options based on hours, costs, and interests. The response was overwhelming—our site received over **24,000 hits**, was used in local school curriculums, and even featured on the news. As interest grew, PSPR expanded into a larger nonprofit with virtual collaboration spaces for students to develop impactful service projects, targeting the challenges posed by the pandemic.
+
+Our story was featured in [Portland Monthly](https://www.pdxmonthly.com/news-and-city-life/2021/04/what-is-portland-student-community-response-nonprofit), which highlighted our mission and the impact we made in Portland communities.
+
+---
+
+## Projects and Programs
+
+![p4]({{site.baseurl}}/assets/img/p4.png)
+
+### Summer Action Team
+
+To foster community connection in a safe, virtual format, I worked with our board to launch the **Summer Action Team**. Over two summers, students joined cohorts to create projects supporting specific groups impacted by COVID-19. These efforts produced virtual and local events, awareness campaigns, and more. Together, participants contributed over **4,000 hours** of service.
+
+![zoom]({{site.baseurl}}/assets/img/zoom.png)
+
+---
+
+### Student Impact Projects
+
+As director of our after-school program during the 2020-2021 school year, I helped students propose and develop their own community service initiatives. We hosted **12 team projects**, addressing issues like houselessness, mental health, and educational support. I provided resources, connections, and guidance to bring these ideas to life.
+
+![p1]({{site.baseurl}}/assets/img/p1.png)
+
+---
+
+### Vaccine Finder Textline
+
+In Spring 2021, I helped program PSPR’s **Vaccine Finder Textline**, a tool to locate vaccine appointments by zip code. Built using an open-source API and enhanced with machine learning, the tool became a vital resource during a time when vaccine slots were scarce. It was used over **409,000 times** and received positive feedback for its efficiency and accessibility.
+
+<div style="text-align: center;">
+  <img src="{{site.baseurl}}/assets/img/vac.png" alt="vac">
+</div>
+
+---
+
+## Leadership in Action
+
+Founding PSPR required a balance of technical skills, strategic planning, and community engagement. I built the initial website, assembled a student board of directors, and worked alongside a leadership team to create impactful programs that involved nearly **100 local students** and countless others through our service projects. Together, we turned ideas into action, transforming student passion into meaningful community impact.
+
+![p3]({{site.baseurl}}/assets/img/p3.png)
