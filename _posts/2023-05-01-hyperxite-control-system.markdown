@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Leading Control Systems for HyperXite
+title: Control Systems for HyperXite
 date: 2023-05-01 15:00:00 +0300
 description: My work designing and implementing the control systems for HyperXite's Hyperloop pod.
 img: oldteam.png
