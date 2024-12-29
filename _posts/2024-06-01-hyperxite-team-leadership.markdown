@@ -2,7 +2,7 @@
 layout: post
 title: HyperXite Team Leadership
 date: 2024-06-01 00:00:00 +0300
-description: Highlights from leading a multidisciplinary engineering team and optimizing recruitment for HyperXite.
+description: Team
 img: team.png
 tags: [Project Management, Leadership, Engineering Teams]
 ---
@@ -11,7 +11,7 @@ HyperXite is a student-led engineering team from UC Irvine, where members collab
 
 After two years of experience with HyperXite, I was elected to lead our 35-member team spanning ten subteams, overseeing project management and team operations. As Project Manager, I coordinated leadership efforts, team goals, and deliverables while fostering a collaborative and engaging team environment.
 
-![Pod]({{site.baseurl}}/assets/img/pod.jpg)
+![Pod]({{site.baseurl}}/assets/img/pod.png)
 
 ## Leading the Management Team
 
