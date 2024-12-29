@@ -58,10 +58,10 @@ Azure DevOps Integration:
 
 ### Technologies Used
 
-- Languages: Python
-- Frameworks & Libraries: PyQt5, scikit-learn
-- Platforms: OpenText Exstream, Empower API
-- Tools: Azure DevOps, JSON
+- **Languages:** Python
+- **Frameworks & Libraries:** PyQt5, scikit-learn
+- **Platforms:** OpenText Exstream, Empower API
+- **Tools:** Azure DevOps, JSON
 
 ### Results and Takeaways
 

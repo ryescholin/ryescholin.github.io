@@ -36,10 +36,10 @@ To complement my web development skills, I pursued AWS Partner Accreditations. T
 
 ## Technologies Used
 
-- Languages: JavaScript
-- Frameworks & Libraries: React
-- Platforms: AWS
-- Tools: Git, Udemy
+- **Languages:** JavaScript
+- **Frameworks & Libraries:** React
+- **Platforms:** AWS
+- **Tools:** Git, Udemy
 
 ## Takeaways
 

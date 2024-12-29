@@ -50,10 +50,10 @@ To support efficient data loading, I worked with my mentors to add pagination to
 
 ## Technologies Used
 
-- Languages: JavaScript, Python
-- Frameworks & Libraries: React, Tanstack Table, FAST API
-- Platforms: Browser-based UI, Syntiant’s model database
-- Tools: JSON, REST APIs
+- **Languages:** JavaScript, Python
+- **Frameworks & Libraries:** React, Tanstack Table, FAST API
+- **Platforms:** Browser-based UI, Syntiant’s model database
+- **Tools:** JSON, REST APIs
 
 ## Results and Impact
 
