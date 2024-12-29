@@ -33,7 +33,7 @@ Instruction File Optimization:
 
 ## BenAdmin Intake App: Simplifying Data Processing for Enrollment
 
-The BenAdmin Intake App streamlines the translation of employer-provided data into formats compatible with Pacific Life's administration systems. My work targeted expanding its functionality, enhancing its accuracy, and streamlining its development process:
+The BenAdmin Intake App streamlines the translation of employer-provided data into formats compatible with Pacific Life's administration systems. My work targeted expanding its functionality, enhancing its accuracy, and making its development process more efficient:
 
 Feature Expansion:
 
