@@ -3,7 +3,7 @@ layout: post
 title: HyperXite Team Leadership
 date: 2024-06-01 00:00:00 +0300
 description: Highlights from leading a multidisciplinary engineering team and optimizing recruitment for HyperXite.
-img: team.jpg
+img: team.png
 tags: [Project Management, Leadership, Engineering Teams]
 ---
 
