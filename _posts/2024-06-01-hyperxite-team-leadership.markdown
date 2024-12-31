@@ -1,6 +1,6 @@
 ---
 layout: post
-title: HyperXite Team Leadership
+title: UCI HyperXite Team Leadership
 date: 2024-06-01 00:00:00 +0300
 description: Team
 img: team.png

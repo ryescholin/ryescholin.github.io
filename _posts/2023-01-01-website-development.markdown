@@ -1,13 +1,13 @@
 ---
 layout: post
-title: React Website Development
+title: React Website Development at Smilefish
 date: 2023-01-01 00:00:00 +0300
 description: Reflecting on the journey of learning React, contributing to SeaNet's development, and acquiring AWS certifications during a rewarding internship.
 img: seanet.png
 tags: [Software Development, React, AWS, Internship]
 ---
 
-During my internship at Smilefish, I developed websites with React and earned AWS certifications, both of which helped me expand my technical skill set.
+During my winter 2023 internship, I developed websites with React and earned AWS certifications, both of which helped me expand my technical skill set.
 
 ### Starting out in React
 

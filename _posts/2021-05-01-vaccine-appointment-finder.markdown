@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Vaccine Appointment Finder
+title: Vaccine Appointment Finder for PSPR
 date: 2021-05-01 00:00:00 +0300
 description: Building an autonomous text line to help users find COVID-19 vaccine appointments quickly and efficiently during the pandemic.
 img: zoom.png

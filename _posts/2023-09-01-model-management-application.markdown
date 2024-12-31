@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Model Management Application
+title: Model Management Application at Syntiant
 date: 2023-09-01 00:00:00 +0300
 description: Building a React-based tool to streamline machine learning model management and enhance collaboration.
 img: model.png
 tags: [Software Engineering, Frontend Development, Machine Learning, React]
 ---
 
-During my internship at Syntiant, I developed a user interface to help employees manage and interact with a database of machine learning models. This project involved designing a user-friendly tool, implementing core features, and integrating it with existing APIs to streamline workflow and collaboration.
+During my summer 2023 internship, I developed a user interface to help employees manage and interact with a database of machine learning models. This project involved designing a user-friendly tool, implementing core features, and integrating it with existing APIs to streamline workflow and collaboration.
 
 ## Understanding the Requirements
 
